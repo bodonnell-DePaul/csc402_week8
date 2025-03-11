@@ -1,0 +1,1752 @@
+[
+  {
+    "rank": 1,
+    "title": "Gladiator",
+    "director": "Ridley Scott",
+    "imdbRating": 8.5,
+    "year": 2000
+  },
+  {
+    "rank": 1,
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "director": "Peter Jackson",
+    "imdbRating": 8.8,
+    "year": 2001
+  },
+  {
+    "rank": 1,
+    "title": "The Lord of the Rings: The Two Towers",
+    "director": "Peter Jackson",
+    "imdbRating": 8.8,
+    "year": 2002
+  },
+  {
+    "rank": 1,
+    "title": "The Lord of the Rings: The Return of the King",
+    "director": "Peter Jackson",
+    "imdbRating": 8.9,
+    "year": 2003
+  },
+  {
+    "rank": 1,
+    "title": "Eternal Sunshine of the Spotless Mind",
+    "director": "Michel Gondry",
+    "imdbRating": 8.3,
+    "year": 2004
+  },
+  {
+    "rank": 1,
+    "title": "Batman Begins",
+    "director": "Christopher Nolan",
+    "imdbRating": 8.2,
+    "year": 2005
+  },
+  {
+    "rank": 1,
+    "title": "The Departed",
+    "director": "Martin Scorsese",
+    "imdbRating": 8.5,
+    "year": 2006
+  },
+  {
+    "rank": 1,
+    "title": "No Country for Old Men",
+    "director": "Joel Coen, Ethan Coen",
+    "imdbRating": 8.2,
+    "year": 2007
+  },
+  {
+    "rank": 1,
+    "title": "The Dark Knight",
+    "director": "Christopher Nolan",
+    "imdbRating": 9.0,
+    "year": 2008
+  },
+  {
+    "rank": 1,
+    "title": "Avatar",
+    "director": "James Cameron",
+    "imdbRating": 7.8,
+    "year": 2009
+  },
+  {
+    "rank": 1,
+    "title": "Inception",
+    "director": "Christopher Nolan",
+    "imdbRating": 8.8,
+    "year": 2010
+  },
+  {
+    "rank": 1,
+    "title": "The Artist",
+    "director": "Michel Hazanavicius",
+    "imdbRating": 7.9,
+    "year": 2011
+  },
+  {
+    "rank": 1,
+    "title": "The Dark Knight Rises",
+    "director": "Christopher Nolan",
+    "imdbRating": 8.4,
+    "year": 2012
+  },
+  {
+    "rank": 1,
+    "title": "12 Years a Slave",
+    "director": "Steve McQueen",
+    "imdbRating": 8.1,
+    "year": 2013
+  },
+  {
+    "rank": 1,
+    "title": "Whiplash",
+    "director": "Damien Chazelle",
+    "imdbRating": 8.5,
+    "year": 2014
+  },
+  {
+    "rank": 1,
+    "title": "Mad Max: Fury Road",
+    "director": "George Miller",
+    "imdbRating": 8.1,
+    "year": 2015
+  },
+  {
+    "rank": 1,
+    "title": "La La Land",
+    "director": "Damien Chazelle",
+    "imdbRating": 8.0,
+    "year": 2016
+  },
+  {
+    "rank": 1,
+    "title": "Dunkirk",
+    "director": "Christopher Nolan",
+    "imdbRating": 7.8,
+    "year": 2017
+  },
+  {
+    "rank": 1,
+    "title": "Black Panther",
+    "director": "Ryan Coogler",
+    "imdbRating": 7.3,
+    "year": 2018
+  },
+  {
+    "rank": 1,
+    "title": "Parasite",
+    "director": "Bong Joon-ho",
+    "imdbRating": 8.6,
+    "year": 2019
+  },
+  {
+    "rank": 1,
+    "title": "Tenet",
+    "director": "Christopher Nolan",
+    "imdbRating": 7.5,
+    "year": 2020
+  },
+  {
+    "rank": 1,
+    "title": "Spider-Man: No Way Home",
+    "director": "Jon Watts",
+    "imdbRating": 8.4,
+    "year": 2021
+  },
+  {
+    "rank": 1,
+    "title": "Everything Everywhere All at Once",
+    "director": "Daniel Kwan, Daniel Scheinert",
+    "imdbRating": 8.0,
+    "year": 2022
+  },
+  {
+    "rank": 1,
+    "title": "Oppenheimer",
+    "director": "Christopher Nolan",
+    "imdbRating": 8.3,
+    "year": 2023
+  },
+  {
+    "rank": 1,
+    "title": "Dune: Part Two",
+    "director": "Denis Villeneuve",
+    "imdbRating": 8.5,
+    "year": 2024
+  },
+  {
+    "rank": 2,
+    "title": "Memento",
+    "director": "Christopher Nolan",
+    "imdbRating": 8.4,
+    "year": 2000
+  },
+  {
+    "rank": 2,
+    "title": "Spirited Away",
+    "director": "Hayao Miyazaki",
+    "imdbRating": 8.6,
+    "year": 2001
+  },
+  {
+    "rank": 2,
+    "title": "The Pianist",
+    "director": "Roman Polanski",
+    "imdbRating": 8.5,
+    "year": 2002
+  },
+  {
+    "rank": 2,
+    "title": "Finding Nemo",
+    "director": "Andrew Stanton, Lee Unkrich",
+    "imdbRating": 8.2,
+    "year": 2003
+  },
+  {
+    "rank": 2,
+    "title": "The Incredibles",
+    "director": "Brad Bird",
+    "imdbRating": 8.0,
+    "year": 2004
+  },
+  {
+    "rank": 2,
+    "title": "Brokeback Mountain",
+    "director": "Ang Lee",
+    "imdbRating": 7.7,
+    "year": 2005
+  },
+  {
+    "rank": 2,
+    "title": "Pan's Labyrinth",
+    "director": "Guillermo del Toro",
+    "imdbRating": 8.2,
+    "year": 2006
+  },
+  {
+    "rank": 2,
+    "title": "There Will Be Blood",
+    "director": "Paul Thomas Anderson",
+    "imdbRating": 8.2,
+    "year": 2007
+  },
+  {
+    "rank": 2,
+    "title": "WALL·E",
+    "director": "Andrew Stanton",
+    "imdbRating": 8.4,
+    "year": 2008
+  },
+  {
+    "rank": 2,
+    "title": "Inglourious Basterds",
+    "director": "Quentin Tarantino",
+    "imdbRating": 8.3,
+    "year": 2009
+  },
+  {
+    "rank": 2,
+    "title": "The Social Network",
+    "director": "David Fincher",
+    "imdbRating": 7.8,
+    "year": 2010
+  },
+  {
+    "rank": 2,
+    "title": "Harry Potter and the Deathly Hallows: Part 2",
+    "director": "David Yates",
+    "imdbRating": 8.1,
+    "year": 2011
+  },
+  {
+    "rank": 2,
+    "title": "Django Unchained",
+    "director": "Quentin Tarantino",
+    "imdbRating": 8.5,
+    "year": 2012
+  },
+  {
+    "rank": 2,
+    "title": "Gravity",
+    "director": "Alfonso Cuarón",
+    "imdbRating": 7.7,
+    "year": 2013
+  },
+  {
+    "rank": 2,
+    "title": "Boyhood",
+    "director": "Richard Linklater",
+    "imdbRating": 7.9,
+    "year": 2014
+  },
+  {
+    "rank": 2,
+    "title": "The Revenant",
+    "director": "Alejandro G. Iñárritu",
+    "imdbRating": 8.0,
+    "year": 2015
+  },
+  {
+    "rank": 2,
+    "title": "Arrival",
+    "director": "Denis Villeneuve",
+    "imdbRating": 8.0,
+    "year": 2016
+  },
+  {
+    "rank": 2,
+    "title": "Get Out",
+    "director": "Jordan Peele",
+    "imdbRating": 7.7,
+    "year": 2017
+  },
+  {
+    "rank": 2,
+    "title": "Avengers: Infinity War",
+    "director": "Anthony Russo, Joe Russo",
+    "imdbRating": 7.8,
+    "year": 2018
+  },
+  {
+    "rank": 2,
+    "title": "Once Upon a Time in Hollywood",
+    "director": "Quentin Tarantino",
+    "imdbRating": 7.6,
+    "year": 2019
+  },
+  {
+    "rank": 2,
+    "title": "Soul",
+    "director": "Pete Docter",
+    "imdbRating": 8.0,
+    "year": 2020
+  },
+  {
+    "rank": 2,
+    "title": "Dune",
+    "director": "Denis Villeneuve",
+    "imdbRating": 8.1,
+    "year": 2021
+  },
+  {
+    "rank": 2,
+    "title": "Top Gun: Maverick",
+    "director": "Joseph Kosinski",
+    "imdbRating": 8.2,
+    "year": 2022
+  },
+  {
+    "rank": 2,
+    "title": "Spider-Man: Across the Spider-Verse",
+    "director": "Joaquim Dos Santos, Kemp Powers",
+    "imdbRating": 8.4,
+    "year": 2023
+  },
+  {
+    "rank": 2,
+    "title": "The Brutalist",
+    "director": "Brady Corbet",
+    "imdbRating": 7.6,
+    "year": 2024
+  },
+  {
+    "rank": 3,
+    "title": "Snatch",
+    "director": "Guy Ritchie",
+    "imdbRating": 8.2,
+    "year": 2000
+  },
+  {
+    "rank": 3,
+    "title": "Donnie Darko",
+    "director": "Richard Kelly",
+    "imdbRating": 8.0,
+    "year": 2001
+  },
+  {
+    "rank": 3,
+    "title": "Catch Me If You Can",
+    "director": "Steven Spielberg",
+    "imdbRating": 8.1,
+    "year": 2002
+  },
+  {
+    "rank": 3,
+    "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+    "director": "Gore Verbinski",
+    "imdbRating": 8.1,
+    "year": 2003
+  },
+  {
+    "rank": 3,
+    "title": "Million Dollar Baby",
+    "director": "Clint Eastwood",
+    "imdbRating": 8.1,
+    "year": 2004
+  },
+  {
+    "rank": 3,
+    "title": "Sin City",
+    "director": "Frank Miller, Robert Rodriguez",
+    "imdbRating": 8.0,
+    "year": 2005
+  },
+  {
+    "rank": 3,
+    "title": "Children of Men",
+    "director": "Alfonso Cuarón",
+    "imdbRating": 7.9,
+    "year": 2006
+  },
+  {
+    "rank": 3,
+    "title": "The Bourne Ultimatum",
+    "director": "Paul Greengrass",
+    "imdbRating": 8.0,
+    "year": 2007
+  },
+  {
+    "rank": 3,
+    "title": "Slumdog Millionaire",
+    "director": "Danny Boyle",
+    "imdbRating": 8.0,
+    "year": 2008
+  },
+  {
+    "rank": 3,
+    "title": "Up",
+    "director": "Pete Docter, Bob Peterson",
+    "imdbRating": 8.2,
+    "year": 2009
+  },
+  {
+    "rank": 3,
+    "title": "Toy Story 3",
+    "director": "Lee Unkrich",
+    "imdbRating": 8.3,
+    "year": 2010
+  },
+  {
+    "rank": 3,
+    "title": "Drive",
+    "director": "Nicolas Winding Refn",
+    "imdbRating": 7.8,
+    "year": 2011
+  },
+  {
+    "rank": 3,
+    "title": "Life of Pi",
+    "director": "Ang Lee",
+    "imdbRating": 7.9,
+    "year": 2012
+  },
+  {
+    "rank": 3,
+    "title": "Her",
+    "director": "Spike Jonze",
+    "imdbRating": 8.0,
+    "year": 2013
+  },
+  {
+    "rank": 3,
+    "title": "Birdman",
+    "director": "Alejandro G. Iñárritu",
+    "imdbRating": 7.7,
+    "year": 2014
+  },
+  {
+    "rank": 3,
+    "title": "Inside Out",
+    "director": "Pete Docter",
+    "imdbRating": 8.1,
+    "year": 2015
+  },
+  {
+    "rank": 3,
+    "title": "Manchester by the Sea",
+    "director": "Kenneth Lonergan",
+    "imdbRating": 7.8,
+    "year": 2016
+  },
+  {
+    "rank": 3,
+    "title": "Lady Bird",
+    "director": "Greta Gerwig",
+    "imdbRating": 7.4,
+    "year": 2017
+  },
+  {
+    "rank": 3,
+    "title": "A Star Is Born",
+    "director": "Bradley Cooper",
+    "imdbRating": 7.5,
+    "year": 2018
+  },
+  {
+    "rank": 3,
+    "title": "Joker",
+    "director": "Todd Phillips",
+    "imdbRating": 7.9,
+    "year": 2019
+  },
+  {
+    "rank": 3,
+    "title": "Nomadland",
+    "director": "Chloé Zhao",
+    "imdbRating": 7.4,
+    "year": 2020
+  },
+  {
+    "rank": 3,
+    "title": "The Suicide Squad",
+    "director": "James Gunn",
+    "imdbRating": 7.2,
+    "year": 2021
+  },
+  {
+    "rank": 3,
+    "title": "The Batman",
+    "director": "Matt Reeves",
+    "imdbRating": 7.8,
+    "year": 2022
+  },
+  {
+    "rank": 3,
+    "title": "Barbie",
+    "director": "Greta Gerwig",
+    "imdbRating": 7.5,
+    "year": 2023
+  },
+  {
+    "rank": 3,
+    "title": "Ghostlight",
+    "director": "Kelly O'Sullivan, Alex Thompson",
+    "imdbRating": 7.6,
+    "year": 2024
+  },
+  {
+    "rank": 4,
+    "title": "Requiem for a Dream",
+    "director": "Darren Aronofsky",
+    "imdbRating": 8.3,
+    "year": 2000
+  },
+  {
+    "rank": 4,
+    "title": "A Beautiful Mind",
+    "director": "Ron Howard",
+    "imdbRating": 8.2,
+    "year": 2001
+  },
+  {
+    "rank": 4,
+    "title": "Gangs of New York",
+    "director": "Martin Scorsese",
+    "imdbRating": 7.5,
+    "year": 2002
+  },
+  {
+    "rank": 4,
+    "title": "Kill Bill: Vol. 1",
+    "director": "Quentin Tarantino",
+    "imdbRating": 8.1,
+    "year": 2003
+  },
+  {
+    "rank": 4,
+    "title": "Shaun of the Dead",
+    "director": "Edgar Wright",
+    "imdbRating": 7.9,
+    "year": 2004
+  },
+  {
+    "rank": 4,
+    "title": "V for Vendetta",
+    "director": "James McTeigue",
+    "imdbRating": 8.2,
+    "year": 2005
+  },
+  {
+    "rank": 4,
+    "title": "The Prestige",
+    "director": "Christopher Nolan",
+    "imdbRating": 8.5,
+    "year": 2006
+  },
+  {
+    "rank": 4,
+    "title": "Ratatouille",
+    "director": "Brad Bird",
+    "imdbRating": 8.0,
+    "year": 2007
+  },
+  {
+    "rank": 4,
+    "title": "Iron Man",
+    "director": "Jon Favreau",
+    "imdbRating": 7.9,
+    "year": 2008
+  },
+  {
+    "rank": 4,
+    "title": "District 9",
+    "director": "Neill Blomkamp",
+    "imdbRating": 7.9,
+    "year": 2009
+  },
+  {
+    "rank": 4,
+    "title": "Black Swan",
+    "director": "Darren Aronofsky",
+    "imdbRating": 8.0,
+    "year": 2010
+  },
+  {
+    "rank": 4,
+    "title": "Midnight in Paris",
+    "director": "Woody Allen",
+    "imdbRating": 7.6,
+    "year": 2011
+  },
+  {
+    "rank": 4,
+    "title": "Skyfall",
+    "director": "Sam Mendes",
+    "imdbRating": 7.8,
+    "year": 2012
+  },
+  {
+    "rank": 4,
+    "title": "The Wolf of Wall Street",
+    "director": "Martin Scorsese",
+    "imdbRating": 8.2,
+    "year": 2013
+  },
+  {
+    "rank": 4,
+    "title": "The Grand Budapest Hotel",
+    "director": "Wes Anderson",
+    "imdbRating": 8.1,
+    "year": 2014
+  },
+  {
+    "rank": 4,
+    "title": "Spotlight",
+    "director": "Tom McCarthy",
+    "imdbRating": 8.1,
+    "year": 2015
+  },
+  {
+    "rank": 4,
+    "title": "Moonlight",
+    "director": "Barry Jenkins",
+    "imdbRating": 7.4,
+    "year": 2016
+  },
+  {
+    "rank": 4,
+    "title": "The Shape of Water",
+    "director": "Guillermo del Toro",
+    "imdbRating": 7.4,
+    "year": 2017
+  },
+  {
+    "rank": 4,
+    "title": "BlacKkKlansman",
+    "director": "Spike Lee",
+    "imdbRating": 7.2,
+    "year": 2018
+  },
+  {
+    "rank": 4,
+    "title": "1917",
+    "director": "Sam Mendes",
+    "imdbRating": 7.8,
+    "year": 2019
+  },
+  {
+    "rank": 4,
+    "title": "The Trial of the Chicago 7",
+    "director": "Aaron Sorkin",
+    "imdbRating": 7.4,
+    "year": 2020
+  },
+  {
+    "rank": 4,
+    "title": "No Time to Die",
+    "director": "Cary Joji Fukunaga",
+    "imdbRating": 7.3,
+    "year": 2021
+  },
+  {
+    "rank": 4,
+    "title": "Avatar: The Way of Water",
+    "director": "James Cameron",
+    "imdbRating": 7.6,
+    "year": 2022
+  },
+  {
+    "rank": 4,
+    "title": "John Wick: Chapter 4",
+    "director": "Chad Stahelski",
+    "imdbRating": 7.9,
+    "year": 2023
+  },
+  {
+    "rank": 4,
+    "title": "Nosferatu",
+    "director": "Robert Eggers",
+    "imdbRating": 7.3,
+    "year": 2024
+  },
+  {
+    "rank": 5,
+    "title": "Cast Away",
+    "director": "Robert Zemeckis",
+    "imdbRating": 7.8,
+    "year": 2000
+  },
+  {
+    "rank": 5,
+    "title": "Mulholland Drive",
+    "director": "David Lynch",
+    "imdbRating": 7.9,
+    "year": 2001
+  },
+  {
+    "rank": 5,
+    "title": "Minority Report",
+    "director": "Steven Spielberg",
+    "imdbRating": 7.6,
+    "year": 2002
+  },
+  {
+    "rank": 5,
+    "title": "Mystic River",
+    "director": "Clint Eastwood",
+    "imdbRating": 7.9,
+    "year": 2003
+  },
+  {
+    "rank": 5,
+    "title": "Harry Potter and the Prisoner of Azkaban",
+    "director": "Alfonso Cuarón",
+    "imdbRating": 7.9,
+    "year": 2004
+  },
+  {
+    "rank": 5,
+    "title": "The Constant Gardener",
+    "director": "Fernando Meirelles",
+    "imdbRating": 7.4,
+    "year": 2005
+  },
+  {
+    "rank": 5,
+    "title": "Casino Royale",
+    "director": "Martin Campbell",
+    "imdbRating": 8.0,
+    "year": 2006
+  },
+  {
+    "rank": 5,
+    "title": "Juno",
+    "director": "Jason Reitman",
+    "imdbRating": 7.4,
+    "year": 2007
+  },
+  {
+    "rank": 5,
+    "title": "The Curious Case of Benjamin Button",
+    "director": "David Fincher",
+    "imdbRating": 7.8,
+    "year": 2008
+  },
+  {
+    "rank": 5,
+    "title": "Star Trek",
+    "director": "J.J. Abrams",
+    "imdbRating": 7.9,
+    "year": 2009
+  },
+  {
+    "rank": 5,
+    "title": "The King's Speech",
+    "director": "Tom Hooper",
+    "imdbRating": 8.0,
+    "year": 2010
+  },
+  {
+    "rank": 5,
+    "title": "Moneyball",
+    "director": "Bennett Miller",
+    "imdbRating": 7.6,
+    "year": 2011
+  },
+  {
+    "rank": 5,
+    "title": "Argo",
+    "director": "Ben Affleck",
+    "imdbRating": 7.7,
+    "year": 2012
+  },
+  {
+    "rank": 5,
+    "title": "Captain Phillips",
+    "director": "Paul Greengrass",
+    "imdbRating": 7.8,
+    "year": 2013
+  },
+  {
+    "rank": 5,
+    "title": "Gone Girl",
+    "director": "David Fincher",
+    "imdbRating": 8.1,
+    "year": 2014
+  },
+  {
+    "rank": 5,
+    "title": "The Martian",
+    "director": "Ridley Scott",
+    "imdbRating": 8.0,
+    "year": 2015
+  },
+  {
+    "rank": 5,
+    "title": "Hacksaw Ridge",
+    "director": "Mel Gibson",
+    "imdbRating": 7.5,
+    "year": 2016
+  },
+  {
+    "rank": 5,
+    "title": "Call Me by Your Name",
+    "director": "Luca Guadagnino",
+    "imdbRating": 7.7,
+    "year": 2017
+  },
+  {
+    "rank": 5,
+    "title": "Roma",
+    "director": "Alfonso Cuarón",
+    "imdbRating": 7.6,
+    "year": 2018
+  },
+  {
+    "rank": 5,
+    "title": "Jojo Rabbit",
+    "director": "Taika Waititi",
+    "imdbRating": 7.9,
+    "year": 2019
+  },
+  {
+    "rank": 5,
+    "title": "Promising Young Woman",
+    "director": "Emerald Fennell",
+    "imdbRating": 7.1,
+    "year": 2020
+  },
+  {
+    "rank": 5,
+    "title": "The French Dispatch",
+    "director": "Wes Anderson",
+    "imdbRating": 7.4,
+    "year": 2021
+  },
+  {
+    "rank": 5,
+    "title": "Doctor Strange in the Multiverse of Madness",
+    "director": "Sam Raimi",
+    "imdbRating": 7.0,
+    "year": 2022
+  },
+  {
+    "rank": 5,
+    "title": "Mission: Impossible - Dead Reckoning Part One",
+    "director": "Christopher McQuarrie",
+    "imdbRating": 7.8,
+    "year": 2023
+  },
+  {
+    "rank": 5,
+    "title": "The Wild Robot",
+    "director": "Chris Sanders",
+    "imdbRating": 8.2,
+    "year": 2024
+  },
+  {
+    "rank": 6,
+    "title": "X-Men",
+    "director": "Bryan Singer",
+    "imdbRating": 7.3,
+    "year": 2000
+  },
+  {
+    "rank": 6,
+    "title": "Monsters, Inc.",
+    "director": "Pete Docter",
+    "imdbRating": 8.1,
+    "year": 2001
+  },
+  {
+    "rank": 6,
+    "title": "Road to Perdition",
+    "director": "Sam Mendes",
+    "imdbRating": 7.7,
+    "year": 2002
+  },
+  {
+    "rank": 6,
+    "title": "Lost in Translation",
+    "director": "Sofia Coppola",
+    "imdbRating": 7.7,
+    "year": 2003
+  },
+  {
+    "rank": 6,
+    "title": "The Aviator",
+    "director": "Martin Scorsese",
+    "imdbRating": 7.5,
+    "year": 2004
+  },
+  {
+    "rank": 6,
+    "title": "Good Night, and Good Luck",
+    "director": "George Clooney",
+    "imdbRating": 7.4,
+    "year": 2005
+  },
+  {
+    "rank": 6,
+    "title": "The Pursuit of Happyness",
+    "director": "Gabriele Muccino",
+    "imdbRating": 8.0,
+    "year": 2006
+  },
+  {
+    "rank": 6,
+    "title": "Zodiac",
+    "director": "David Fincher",
+    "imdbRating": 7.7,
+    "year": 2007
+  },
+  {
+    "rank": 6,
+    "title": "Gran Torino",
+    "director": "Clint Eastwood",
+    "imdbRating": 8.1,
+    "year": 2008
+  },
+  {
+    "rank": 6,
+    "title": "The Hangover",
+    "director": "Todd Phillips",
+    "imdbRating": 7.7,
+    "year": 2009
+  },
+  {
+    "rank": 6,
+    "title": "Shutter Island",
+    "director": "Martin Scorsese",
+    "imdbRating": 8.2,
+    "year": 2010
+  },
+  {
+    "rank": 6,
+    "title": "The Tree of Life",
+    "director": "Terrence Malick",
+    "imdbRating": 6.8,
+    "year": 2011
+  },
+  {
+    "rank": 6,
+    "title": "The Hobbit: An Unexpected Journey",
+    "director": "Peter Jackson",
+    "imdbRating": 7.8,
+    "year": 2012
+  },
+  {
+    "rank": 6,
+    "title": "Rush",
+    "director": "Ron Howard",
+    "imdbRating": 8.1,
+    "year": 2013
+  },
+  {
+    "rank": 6,
+    "title": "Interstellar",
+    "director": "Christopher Nolan",
+    "imdbRating": 8.6,
+    "year": 2014
+  },
+  {
+    "rank": 6,
+    "title": "Room",
+    "director": "Lenny Abrahamson",
+    "imdbRating": 8.1,
+    "year": 2015
+  },
+  {
+    "rank": 6,
+    "title": "Hell or High Water",
+    "director": "David Mackenzie",
+    "imdbRating": 7.6,
+    "year": 2016
+  },
+  {
+    "rank": 6,
+    "title": "Three Billboards Outside Ebbing, Missouri",
+    "director": "Martin McDonagh",
+    "imdbRating": 7.8,
+    "year": 2017
+  },
+  {
+    "rank": 6,
+    "title": "Bohemian Rhapsody",
+    "director": "Bryan Singer",
+    "imdbRating": 7.6,
+    "year": 2018
+  },
+  {
+    "rank": 6,
+    "title": "The Irishman",
+    "director": "Martin Scorsese",
+    "imdbRating": 7.8,
+    "year": 2019
+  },
+  {
+    "rank": 6,
+    "title": "The Father",
+    "director": "Florian Zeller",
+    "imdbRating": 7.8,
+    "year": 2020
+  },
+  {
+    "rank": 6,
+    "title": "Shang-Chi and the Legend of the Ten Rings",
+    "director": "Destin Daniel Cretton",
+    "imdbRating": 7.5,
+    "year": 2021
+  },
+  {
+    "rank": 6,
+    "title": "Black Panther: Wakanda Forever",
+    "director": "Ryan Coogler",
+    "imdbRating": 6.6,
+    "year": 2022
+  },
+  {
+    "rank": 6,
+    "title": "Killers of the Flower Moon",
+    "director": "Martin Scorsese",
+    "imdbRating": 7.6,
+    "year": 2023
+  },
+  {
+    "rank": 6,
+    "title": "Furiosa: A Mad Max Saga",
+    "director": "George Miller",
+    "imdbRating": 7.5,
+    "year": 2024
+  },
+  {
+    "rank": 7,
+    "title": "American Psycho",
+    "director": "Mary Harron",
+    "imdbRating": 7.6,
+    "year": 2000
+  },
+  {
+    "rank": 7,
+    "title": "The Royal Tenenbaums",
+    "director": "Wes Anderson",
+    "imdbRating": 7.6,
+    "year": 2001
+  },
+  {
+    "rank": 7,
+    "title": "Adaptation",
+    "director": "Spike Jonze",
+    "imdbRating": 7.7,
+    "year": 2002
+  },
+  {
+    "rank": 7,
+    "title": "Big Fish",
+    "director": "Tim Burton",
+    "imdbRating": 8.0,
+    "year": 2003
+  },
+  {
+    "rank": 7,
+    "title": "Spider-Man 2",
+    "director": "Sam Raimi",
+    "imdbRating": 7.3,
+    "year": 2004
+  },
+  {
+    "rank": 7,
+    "title": "Munich",
+    "director": "Steven Spielberg",
+    "imdbRating": 7.5,
+    "year": 2005
+  },
+  {
+    "rank": 7,
+    "title": "Blood Diamond",
+    "director": "Edward Zwick",
+    "imdbRating": 8.0,
+    "year": 2006
+  },
+  {
+    "rank": 7,
+    "title": "Into the Wild",
+    "director": "Sean Penn",
+    "imdbRating": 8.1,
+    "year": 2007
+  },
+  {
+    "rank": 7,
+    "title": "The Wrestler",
+    "director": "Darren Aronofsky",
+    "imdbRating": 7.9,
+    "year": 2008
+  },
+  {
+    "rank": 7,
+    "title": "The Hurt Locker",
+    "director": "Kathryn Bigelow",
+    "imdbRating": 7.5,
+    "year": 2009
+  },
+  {
+    "rank": 7,
+    "title": "True Grit",
+    "director": "Joel Coen, Ethan Coen",
+    "imdbRating": 7.6,
+    "year": 2010
+  },
+  {
+    "rank": 7,
+    "title": "Shame",
+    "director": "Steve McQueen",
+    "imdbRating": 7.2,
+    "year": 2011
+  },
+  {
+    "rank": 7,
+    "title": "The Avengers",
+    "director": "Joss Whedon",
+    "imdbRating": 8.0,
+    "year": 2012
+  },
+  {
+    "rank": 7,
+    "title": "American Hustle",
+    "director": "David O. Russell",
+    "imdbRating": 7.2,
+    "year": 2013
+  },
+  {
+    "rank": 7,
+    "title": "The Imitation Game",
+    "director": "Morten Tyldum",
+    "imdbRating": 8.0,
+    "year": 2014
+  },
+  {
+    "rank": 7,
+    "title": "Sicario",
+    "director": "Denis Villeneuve",
+    "imdbRating": 7.6,
+    "year": 2015
+  },
+  {
+    "rank": 7,
+    "title": "Lion",
+    "director": "Garth Davis",
+    "imdbRating": 7.5,
+    "year": 2016
+  },
+  {
+    "rank": 7,
+    "title": "Blade Runner 2049",
+    "director": "Denis Villeneuve",
+    "imdbRating": 8.0,
+    "year": 2017
+  },
+  {
+    "rank": 7,
+    "title": "Green Book",
+    "director": "Peter Farrelly",
+    "imdbRating": 7.4,
+    "year": 2018
+  },
+  {
+    "rank": 7,
+    "title": "Marriage Story",
+    "director": "Noah Baumbach",
+    "imdbRating": 7.7,
+    "year": 2019
+  },
+  {
+    "rank": 7,
+    "title": "Minari",
+    "director": "Lee Isaac Chung",
+    "imdbRating": 7.5,
+    "year": 2020
+  },
+  {
+    "rank": 7,
+    "title": "The Green Knight",
+    "director": "David Lowery",
+    "imdbRating": 6.8,
+    "year": 2021
+  },
+  {
+    "rank": 7,
+    "title": "The Northman",
+    "director": "Robert Eggers",
+    "imdbRating": 7.0,
+    "year": 2022
+  },
+  {
+    "rank": 7,
+    "title": "The Holdovers",
+    "director": "Alexander Payne",
+    "imdbRating": 7.9,
+    "year": 2023
+  },
+  {
+    "rank": 7,
+    "title": "The Substance",
+    "director": "Coralie Fargeat",
+    "imdbRating": 7.3,
+    "year": 2024
+  },
+  {
+    "rank": 8,
+    "title": "O Brother, Where Art Thou?",
+    "director": "Joel Coen, Ethan Coen",
+    "imdbRating": 7.7,
+    "year": 2000
+  },
+  {
+    "rank": 8,
+    "title": "Black Hawk Down",
+    "director": "Ridley Scott",
+    "imdbRating": 7.7,
+    "year": 2001
+  },
+  {
+    "rank": 8,
+    "title": "Signs",
+    "director": "M. Night Shyamalan",
+    "imdbRating": 6.7,
+    "year": 2002
+  },
+  {
+    "rank": 8,
+    "title": "Oldboy",
+    "director": "Park Chan-wook",
+    "imdbRating": 8.4,
+    "year": 2003
+  },
+  {
+    "rank": 8,
+    "title": "Sideways",
+    "director": "Alexander Payne",
+    "imdbRating": 7.5,
+    "year": 2004
+  },
+  {
+    "rank": 8,
+    "title": "Walk the Line",
+    "director": "James Mangold",
+    "imdbRating": 7.8,
+    "year": 2005
+  },
+  {
+    "rank": 8,
+    "title": "Little Miss Sunshine",
+    "director": "Jonathan Dayton, Valerie Faris",
+    "imdbRating": 7.8,
+    "year": 2006
+  },
+  {
+    "rank": 8,
+    "title": "Atonement",
+    "director": "Joe Wright",
+    "imdbRating": 7.8,
+    "year": 2007
+  },
+  {
+    "rank": 8,
+    "title": "Frost/Nixon",
+    "director": "Ron Howard",
+    "imdbRating": 7.7,
+    "year": 2008
+  },
+  {
+    "rank": 8,
+    "title": "(500) Days of Summer",
+    "director": "Marc Webb",
+    "imdbRating": 7.7,
+    "year": 2009
+  },
+  {
+    "rank": 8,
+    "title": "The Fighter",
+    "director": "David O. Russell",
+    "imdbRating": 7.8,
+    "year": 2010
+  },
+  {
+    "rank": 8,
+    "title": "Hugo",
+    "director": "Martin Scorsese",
+    "imdbRating": 7.5,
+    "year": 2011
+  },
+  {
+    "rank": 8,
+    "title": "Silver Linings Playbook",
+    "director": "David O. Russell",
+    "imdbRating": 7.7,
+    "year": 2012
+  },
+  {
+    "rank": 8,
+    "title": "Frozen",
+    "director": "Chris Buck, Jennifer Lee",
+    "imdbRating": 7.4,
+    "year": 2013
+  },
+  {
+    "rank": 8,
+    "title": "Guardians of the Galaxy",
+    "director": "James Gunn",
+    "imdbRating": 8.0,
+    "year": 2014
+  },
+  {
+    "rank": 8,
+    "title": "Ex Machina",
+    "director": "Alex Garland",
+    "imdbRating": 7.7,
+    "year": 2015
+  },
+  {
+    "rank": 8,
+    "title": "Zootopia",
+    "director": "Byron Howard, Rich Moore",
+    "imdbRating": 8.0,
+    "year": 2016
+  },
+  {
+    "rank": 8,
+    "title": "Logan",
+    "director": "James Mangold",
+    "imdbRating": 7.9,
+    "year": 2017
+  },
+  {
+    "rank": 8,
+    "title": "The Favourite",
+    "director": "Yorgos Lanthimos",
+    "imdbRating": 7.1,
+    "year": 2018
+  },
+  {
+    "rank": 8,
+    "title": "Little Women",
+    "director": "Greta Gerwig",
+    "imdbRating": 7.4,
+    "year": 2019
+  },
+  {
+    "rank": 8,
+    "title": "Mank",
+    "director": "David Fincher",
+    "imdbRating": 7.0,
+    "year": 2020
+  },
+  {
+    "rank": 8,
+    "title": "A Quiet Place Part II",
+    "director": "John Krasinski",
+    "imdbRating": 7.2,
+    "year": 2021
+  },
+  {
+    "rank": 8,
+    "title": "Glass Onion: A Knives Out Mystery",
+    "director": "Rian Johnson",
+    "imdbRating": 7.1,
+    "year": 2022
+  },
+  {
+    "rank": 8,
+    "title": "Past Lives",
+    "director": "Celine Song",
+    "imdbRating": 7.8,
+    "year": 2023
+  },
+  {
+    "rank": 8,
+    "title": "A Real Pain",
+    "director": "Jesse Eisenberg",
+    "imdbRating": 7.1,
+    "year": 2024
+  },
+  {
+    "rank": 9,
+    "title": "Crouching Tiger, Hidden Dragon",
+    "director": "Ang Lee",
+    "imdbRating": 7.9,
+    "year": 2000
+  },
+  {
+    "rank": 9,
+    "title": "Ocean's Eleven",
+    "director": "Steven Soderbergh",
+    "imdbRating": 7.7,
+    "year": 2001
+  },
+  {
+    "rank": 9,
+    "title": "Harry Potter and the Chamber of Secrets",
+    "director": "Chris Columbus",
+    "imdbRating": 7.4,
+    "year": 2002
+  },
+  {
+    "rank": 9,
+    "title": "The Last Samurai",
+    "director": "Edward Zwick",
+    "imdbRating": 7.7,
+    "year": 2003
+  },
+  {
+    "rank": 9,
+    "title": "Collateral",
+    "director": "Michael Mann",
+    "imdbRating": 7.5,
+    "year": 2004
+  },
+  {
+    "rank": 9,
+    "title": "King Kong",
+    "director": "Peter Jackson",
+    "imdbRating": 7.2,
+    "year": 2005
+  },
+  {
+    "rank": 9,
+    "title": "The Lives of Others",
+    "director": "Florian Henckel von Donnersmarck",
+    "imdbRating": 8.4,
+    "year": 2006
+  },
+  {
+    "rank": 9,
+    "title": "Michael Clayton",
+    "director": "Tony Gilroy",
+    "imdbRating": 7.2,
+    "year": 2007
+  },
+  {
+    "rank": 9,
+    "title": "Milk",
+    "director": "Gus Van Sant",
+    "imdbRating": 7.5,
+    "year": 2008
+  },
+  {
+    "rank": 9,
+    "title": "Sherlock Holmes",
+    "director": "Guy Ritchie",
+    "imdbRating": 7.6,
+    "year": 2009
+  },
+  {
+    "rank": 9,
+    "title": "How to Train Your Dragon",
+    "director": "Dean DeBlois, Chris Sanders",
+    "imdbRating": 8.1,
+    "year": 2010
+  },
+  {
+    "rank": 9,
+    "title": "X-Men: First Class",
+    "director": "Matthew Vaughn",
+    "imdbRating": 7.7,
+    "year": 2011
+  },
+  {
+    "rank": 9,
+    "title": "The Perks of Being a Wallflower",
+    "director": "Stephen Chbosky",
+    "imdbRating": 7.9,
+    "year": 2012
+  },
+  {
+    "rank": 9,
+    "title": "The Great Gatsby",
+    "director": "Baz Luhrmann",
+    "imdbRating": 7.2,
+    "year": 2013
+  },
+  {
+    "rank": 9,
+    "title": "The Lego Movie",
+    "director": "Phil Lord, Christopher Miller",
+    "imdbRating": 7.7,
+    "year": 2014
+  },
+  {
+    "rank": 9,
+    "title": "The Big Short",
+    "director": "Adam McKay",
+    "imdbRating": 7.8,
+    "year": 2015
+  },
+  {
+    "rank": 9,
+    "title": "Nocturnal Animals",
+    "director": "Tom Ford",
+    "imdbRating": 7.5,
+    "year": 2016
+  },
+  {
+    "rank": 9,
+    "title": "Coco",
+    "director": "Lee Unkrich, Adrian Molina",
+    "imdbRating": 8.0,
+    "year": 2017
+  },
+  {
+    "rank": 9,
+    "title": "Spider-Man: Into the Spider-Verse",
+    "director": "Bob Persichetti, Peter Ramsey",
+    "imdbRating": 8.4,
+    "year": 2018
+  },
+  {
+    "rank": 9,
+    "title": "Ford v Ferrari",
+    "director": "James Mangold",
+    "imdbRating": 7.9,
+    "year": 2019
+  },
+  {
+    "rank": 9,
+    "title": "Judas and the Black Messiah",
+    "director": "Shaka King",
+    "imdbRating": 7.5,
+    "year": 2020
+  },
+  {
+    "rank": 9,
+    "title": "Last Night in Soho",
+    "director": "Edgar Wright",
+    "imdbRating": 7.1,
+    "year": 2021
+  },
+  {
+    "rank": 9,
+    "title": "The Fabelmans",
+    "director": "Steven Spielberg",
+    "imdbRating": 7.5,
+    "year": 2022
+  },
+  {
+    "rank": 9,
+    "title": "Poor Things",
+    "director": "Yorgos Lanthimos",
+    "imdbRating": 7.8,
+    "year": 2023
+  },
+  {
+    "rank": 9,
+    "title": "His Three Daughters",
+    "director": "Azazel Jacobs",
+    "imdbRating": 7.2,
+    "year": 2024
+  },
+  {
+    "rank": 10,
+    "title": "Almost Famous",
+    "director": "Cameron Crowe",
+    "imdbRating": 7.9,
+    "year": 2000
+  },
+  {
+    "rank": 10,
+    "title": "Training Day",
+    "director": "Antoine Fuqua",
+    "imdbRating": 7.7,
+    "year": 2001
+  },
+  {
+    "rank": 10,
+    "title": "The Bourne Identity",
+    "director": "Doug Liman",
+    "imdbRating": 7.9,
+    "year": 2002
+  },
+  {
+    "rank": 10,
+    "title": "Master and Commander: The Far Side of the World",
+    "director": "Peter Weir",
+    "imdbRating": 7.4,
+    "year": 2003
+  },
+  {
+    "rank": 10,
+    "title": "Hotel Rwanda",
+    "director": "Terry George",
+    "imdbRating": 8.1,
+    "year": 2004
+  },
+  {
+    "rank": 10,
+    "title": "Cinderella Man",
+    "director": "Ron Howard",
+    "imdbRating": 8.0,
+    "year": 2005
+  },
+  {
+    "rank": 10,
+    "title": "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan",
+    "director": "Larry Charles",
+    "imdbRating": 7.3,
+    "year": 2006
+  },
+  {
+    "rank": 10,
+    "title": "The Diving Bell and the Butterfly",
+    "director": "Julian Schnabel",
+    "imdbRating": 8.0,
+    "year": 2007
+  },
+  {
+    "rank": 10,
+    "title": "Revolutionary Road",
+    "director": "Sam Mendes",
+    "imdbRating": 7.3,
+    "year": 2008
+  },
+  {
+    "rank": 10,
+    "title": "Up in the Air",
+    "director": "Jason Reitman",
+    "imdbRating": 7.4,
+    "year": 2009
+  },
+  {
+    "rank": 10,
+    "title": "The Town",
+    "director": "Ben Affleck",
+    "imdbRating": 7.5,
+    "year": 2010
+  },
+  {
+    "rank": 10,
+    "title": "Thor",
+    "director": "Kenneth Branagh",
+    "imdbRating": 7.0,
+    "year": 2011
+  },
+  {
+    "rank": 10,
+    "title": "Lincoln",
+    "director": "Steven Spielberg",
+    "imdbRating": 7.3,
+    "year": 2012
+  },
+  {
+    "rank": 10,
+    "title": "The Conjuring",
+    "director": "James Wan",
+    "imdbRating": 7.5,
+    "year": 2013
+  },
+  {
+    "rank": 10,
+    "title": "Nightcrawler",
+    "director": "Dan Gilroy",
+    "imdbRating": 7.8,
+    "year": 2014
+  },
+  {
+    "rank": 10,
+    "title": "Brooklyn",
+    "director": "John Crowley",
+    "imdbRating": 7.5,
+    "year": 2015
+  },
+  {
+    "rank": 10,
+    "title": "Hidden Figures",
+    "director": "Theodore Melfi",
+    "imdbRating": 7.8,
+    "year": 2016
+  },
+  {
+    "rank": 10,
+    "title": "Wonder Woman",
+    "director": "Patty Jenkins",
+    "imdbRating": 7.4,
+    "year": 2017
+  },
+  {
+    "rank": 10,
+    "title": "A Quiet Place",
+    "director": "John Krasinski",
+    "imdbRating": 7.5,
+    "year": 2018
+  },
+  {
+    "rank": 10,
+    "title": "Knives Out",
+    "director": "Rian Johnson",
+    "imdbRating": 7.8,
+    "year": 2019
+  },
+  {
+    "rank": 10,
+    "title": "Sound of Metal",
+    "director": "Darius Marder",
+    "imdbRating": 7.6,
+    "year": 2020
+  },
+  {
+    "rank": 10,
+    "title": "The Power of the Dog",
+    "director": "Jane Campion",
+    "imdbRating": 6.9,
+    "year": 2021
+  },
+  {
+    "rank": 10,
+    "title": "Tár",
+    "director": "Todd Field",
+    "imdbRating": 7.4,
+    "year": 2022
+  },
+  {
+    "rank": 10,
+    "title": "The Promised Land",
+    "director": "Nikolaj Arcel",
+    "imdbRating": 7.7,
+    "year": 2023
+  },
+  {
+    "rank": 10,
+    "title": "The Seed of the Sacred Fig",
+    "director": "Mohammad Rasoulof",
+    "imdbRating": 8.4,
+    "year": 2024
+  }
+]

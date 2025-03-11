@@ -1,7 +1,16 @@
 package csc402.week8;
 
 import java.util.List;
+import java.util.PriorityQueue;
+import java.util.Queue;
+import java.util.Stack;
+
+import org.apache.poi.ss.usermodel.Workbook;
+import org.apache.poi.xssf.usermodel.XSSFWorkbook;
+
+import java.io.FileInputStream;
 import java.util.ArrayList;
+import java.util.LinkedList;
 
 /**
  * Hello world!
@@ -9,9 +18,33 @@ import java.util.ArrayList;
 public class App {
     public static void main(String[] args) {
         MovieDataReader reader = new MovieDataReader();
-        List<Movie> movies = reader.readMoviesFromCSV("path/to/moviedata.csv");
-        movies = mergeSort(movies);
-        reader.serializeMoviesToJson(movies, "path/to/moviedata.json");
+        List<Movie> movies = reader.readMoviesFromCSV("C:\\Users\\bodonne3\\OneDrive - DePaul University\\Documents\\CSC402\\csc402_week8\\demo\\moviedata.csv");
+        LinkedList<Movie> linkedList = new LinkedList<>(movies);
+
+        //movies = mergeSort(movies);
+        //movies = insertionSort(movies);
+        movies = selectionSort(movies);
+
+        //First in First Out
+        // Queue<Movie> queue = new Queue<Movie>();
+        // for (Movie movie : movies) {
+        //     queue.add(movie);
+        // }
+
+        // //First in Last Out
+        // Stack<Movie> stack = new Stack<Movie>();
+        // for (Movie movie : movies) {
+        //     stack.push(movie);
+        // }
+
+        PriorityQueue<Movie> priorityQueue = new PriorityQueue<Movie>();
+        for (Movie movie : movies) {
+            priorityQueue.add(movie);
+        }
+
+        Movie m = priorityQueue.poll();
+
+        reader.serializeMoviesToJson(movies, "C:\\\\Users\\\\bodonne3\\\\OneDrive - DePaul University\\\\Documents\\\\CSC402\\\\csc402_week8\\\\demo\\\\moviedata.json");
         System.out.println("Movies data has been serialized to JSON.");
     }
 

@@ -51,6 +51,45 @@ public class Movie implements Comparable<Movie> {
     @Override
     public int compareTo(Movie o) {
         // TODO Auto-generated method stub
-        throw new UnsupportedOperationException("Unimplemented method 'compareTo'");
+        // if(this.getImdbRating() < o.getImdbRating())
+        // {
+        //     return 1;
+        // }
+        // else if(this.getImdbRating() > o.getImdbRating())
+        // {
+        //     return -1;
+        // }
+        // else
+        // {
+        //     return 0;
+        // }
+
+        //another comparator for get rank
+        if(this.getRank() > o.getRank())
+        {
+            return 1;
+        }
+        else if(this.getRank() < o.getRank())
+        {
+            return -1;
+        }
+        else
+        {
+            return 0;
+        }
+
+        // another comparator for get year
+        // if(this.getYear() > o.getYear())
+        // {
+        //     return 1;
+        // }
+        // else if(this.getYear() < o.getYear())
+        // {
+        //     return -1;
+        // }
+        // else
+        // {
+        //     return 0;
+        // }
     }
 }
